@@ -41,17 +41,10 @@ const notes = [
         link: "https://drive.google.com/file/d/YOUR_FILE_ID/view"
     },
 
-    {
-        title: "C Programming Practical",
-        subject: "c",
-        category: "C Programming",
-        description: "C programming practical programs and solutions.",
-        icon: "📘",
-        link: "https://drive.google.com/file/d/YOUR_FILE_ID/view"
-    },
+   
 
     {
-        title: "Java Programming Notes",
+        title: "Java Programming ",
         subject: "java",
         category: "Java",
         description: "Java fundamentals, OOP concepts and examples.",
@@ -60,7 +53,7 @@ const notes = [
     },
 
     {
-        title: "DBMS Notes",
+        title: "DBMS",
         subject: "dbms",
         category: "DBMS",
         description: "Database concepts, SQL, keys and normalization.",
@@ -69,7 +62,7 @@ const notes = [
     },
 
     {
-        title: "Data Structures Notes",
+        title: "Data Structures",
         subject: "ds",
         category: "Data Structures",
         description: "Arrays, linked lists, stacks and queues.",
